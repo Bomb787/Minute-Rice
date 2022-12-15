@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "minute_rice:items/minute_rice"
-  }
-}
